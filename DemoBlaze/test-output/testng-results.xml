@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-10T22:30:23 IST" name="Suite" finished-at="2024-06-10T22:30:51 IST" duration-ms="27658">
+    <groups>
+    </groups>
+    <test started-at="2024-06-10T22:30:23 IST" name="Test" finished-at="2024-06-10T22:30:51 IST" duration-ms="27658">
+      <class name="testcomponents.LoginTest">
+        <test-method is-config="true" signature="beforeSuit()[pri:0, instance:testcomponents.LoginTest@11392934]" started-at="2024-06-10T22:30:23 IST" name="beforeSuit" finished-at="2024-06-10T22:30:23 IST" duration-ms="461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuit -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testcomponents.LoginTest@11392934]" started-at="2024-06-10T22:30:23 IST" name="beforeTest" finished-at="2024-06-10T22:30:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testcomponents.LoginTest@11392934]" started-at="2024-06-10T22:30:34 IST" name="beforeClass" finished-at="2024-06-10T22:30:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcomponents.LoginTest@11392934]" started-at="2024-06-10T22:30:34 IST" name="beforeMethod" finished-at="2024-06-10T22:30:41 IST" duration-ms="6366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginTest()[pri:0, instance:testcomponents.LoginTest@11392934]" started-at="2024-06-10T22:30:41 IST" name="loginTest" finished-at="2024-06-10T22:30:49 IST" depends-on-methods="signUpTest" duration-ms="8243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcomponents.LoginTest@11392934]" started-at="2024-06-10T22:30:49 IST" name="afterMethod" finished-at="2024-06-10T22:30:51 IST" duration-ms="1990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterSuit()[pri:0, instance:testcomponents.LoginTest@11392934]" started-at="2024-06-10T22:30:51 IST" name="afterSuit" finished-at="2024-06-10T22:30:51 IST" duration-ms="520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuit -->
+      </class> <!-- testcomponents.LoginTest -->
+      <class name="testcomponents.SignUpTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testcomponents.SignUpTest@78e4deb0]" started-at="2024-06-10T22:30:23 IST" name="beforeTest" finished-at="2024-06-10T22:30:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testcomponents.SignUpTest@78e4deb0]" started-at="2024-06-10T22:30:23 IST" name="beforeClass" finished-at="2024-06-10T22:30:23 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcomponents.SignUpTest@78e4deb0]" started-at="2024-06-10T22:30:23 IST" name="beforeMethod" finished-at="2024-06-10T22:30:29 IST" duration-ms="6163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="signUpTest()[pri:0, instance:testcomponents.SignUpTest@78e4deb0]" started-at="2024-06-10T22:30:29 IST" name="signUpTest" finished-at="2024-06-10T22:30:34 IST" duration-ms="4414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcomponents.SignUpTest@78e4deb0]" started-at="2024-06-10T22:30:34 IST" name="afterMethod" finished-at="2024-06-10T22:30:34 IST" duration-ms="401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testcomponents.SignUpTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
